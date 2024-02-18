@@ -13,5 +13,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="react native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img align="center" alt="tailwind" src="https://img.shields.io/badge/tailwind-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-43853D?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div><br/>
