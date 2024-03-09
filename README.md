@@ -3,7 +3,7 @@
 <p>I'm a software engineer. My specialty is web development.</p>
 <p>I also have knowledge with Mobile development.</p>
 <h5>Find me elsewhere</h5>
-<div style="display:flex">
+<div style="display:flex flex-direction:column">
   Html5 | Css3 | Tailwindcss | React Native | Javacript | Nodejs | Reactjs | Mysql | 
   Styles-components | Expo
 </div>
