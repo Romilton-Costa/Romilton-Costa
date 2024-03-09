@@ -3,7 +3,7 @@
 <p>I'm a software engineer. My specialty is web development.</p>
 <p>I also have knowledge with Mobile development.</p>
  <hr/>
- <h4>Tech stacks</h4>
+ <h2>Tech stacks</h4>
  <hr/>
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
