@@ -1,6 +1,6 @@
 ![Profile:](https://komarev.com/ghpvc/?username=romiltondev&color=blue)
 <h3>Hi, I'm Romilton 🖐️</h3>
-<p>I'm a software engineer. My specialty is web development.I also have knowledge with Mobile development.</p>
+<p>I'm a front-end developer. My specialty is web development.I also have knowledge with Mobile development.</p>
 
   # Tech stacks 
 
