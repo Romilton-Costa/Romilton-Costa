@@ -8,7 +8,7 @@
 ## My name is Romilton Costa
 (Java | React JS | React Native | Typescript | Javascript | Tailwindcss ) 🚀
 - 👩‍💻 Systems Analyst
-- 🎓 analysis and systems development @ [ESTÁCIO](https://estacio.br/)
+- 🎓 analysis and systems development graduate @ [ESTÁCIO](https://estacio.br/)
 - 🌐 Passionate about web development
 
   <div align="left">
