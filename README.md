@@ -8,7 +8,10 @@
 
 
 ## My name is Romilton Costa
-(Java | React JS | React Native | Typescript | Javascript | Tailwindcss | Nextjs | Angular ) 🚀
+Backend - Java - Spring Boot - nestjs
+
+Frontend - React Js - React Native - Typescript - javascript - tailwindcss - Nextjs - Angular
+
 - 👩‍💻 Systems Analyst
 - 🎓 analysis and systems development graduate @ [ESTÁCIO](https://estacio.br/)
 - 🌐 Passionate about web development
