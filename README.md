@@ -16,8 +16,4 @@ Frontend - React Js - React Native - Typescript - javascript - tailwindcss - Nex
 - 🎓 analysis and systems development graduate @ [ESTÁCIO](https://estacio.br/)
 - 🌐 Passionate about web development
 
-  <div align="left">
-  
-[![Romilton top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romilton-Costa&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+ 
