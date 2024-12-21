@@ -10,7 +10,7 @@
 ## My name is Romilton Costa
 Backend - Java - Spring Boot - nestjs
 
-Frontend - React Js - React Native - Typescript - javascript - tailwindcss - Nextjs - Angular
+Frontend - React Js - React Native - Nextjs - Angular
 
 - 👩‍💻 Systems Analyst
 - 🎓 analysis and systems development graduate @ [ESTÁCIO](https://estacio.br/)
