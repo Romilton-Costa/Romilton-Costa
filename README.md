@@ -16,6 +16,7 @@ I am a passionate Systems Analyst and Developer with expertise in both backend a
 
 ### Education
 - 🎓 Analysis and Systems Development graduate @ [ESTÁCIO](https://estacio.br/)
+- 🎓 Computer network technician
 
 ### Interests
 - 🌐 Passionate about web development
