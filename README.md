@@ -10,7 +10,7 @@ I am a passionate Systems Analyst and Developer with expertise in both backend a
 
 ### Skills
 - **Backend**: Java, Spring Boot, NestJS
-- **Frontend**: React.js, React Native, Next.js, Angular
+- **Frontend**: React.js, Next.js, Angular
 
 
 
