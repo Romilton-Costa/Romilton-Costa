@@ -1,13 +1,29 @@
 
-<h1>Hi There! 👋</h1>
+<h1 align="center">Hello, I'm Romilton costa 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romilton-costa/)](https://www.linkedin.com/in/romilton-costa/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://devromilton.vercel.app/)](https://devromilton.vercel.app/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@romiltoncosta.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romiltoncosta@gmail.com)](mailto:romiltoncosta@gmail.com)
+<p align="center">
+  <em>Software Engineer</em>
+</p>
 
-## My name is Romilton Costa
-I am a passionate Systems Analyst and Developer with expertise in both backend and frontend technologies.
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
+---
+<p align="center">
+
+I am a passionate Systems Analyst and Developer with expertise in both backend and frontend technologies.</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/romilton-costa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+ </a>
+ 
+ <a href="mailto:contato@romiltoncosta73@gmail.com">
+    <img src="https://img.shields.io/badge/-contato@romiltoncosta.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+ </p>
+ 
 ### Skills
 - **Backend**: Java, Spring Boot, NestJS
 - **Frontend**: React.js, Next.js, Angular
