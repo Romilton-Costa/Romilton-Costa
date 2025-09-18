@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/Romilton-Costa/Romilton-Costa/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
 
 ---
